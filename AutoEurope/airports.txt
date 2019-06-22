@@ -1,0 +1,4 @@
+Alamo, Narita, Tokyo, 0.1
+National, Charles De Gaulle, 0.4
+Avis, Logan, Boston, 1.2
+Hertz, London Heathrow, London, 1.5
